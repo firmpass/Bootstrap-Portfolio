@@ -1,0 +1,42 @@
+
+
+.navbar-header {
+    margin-left: 20%;
+}
+
+.navbar-brand {
+    color: #fff;
+    background-color: #4aaaa5;
+    
+    
+}
+
+
+#connecth3 {
+    text-align: center;
+}
+
+.headh3 {
+    font-family: 'Raleway', sans-serif;
+    color: #4aaaa5;
+    font-weight: 700;
+    
+}
+
+#socialLinks {
+    height: 50px;
+    margin: 0 0 5% 5%;
+
+   
+    
+}
+
+.socialLink {
+  float: left;
+  width: 60px;
+  padding: 3px;
+  
+    
+}
+
+
